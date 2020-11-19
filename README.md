@@ -8,5 +8,6 @@ Un blog increible para el curso de Git y Github de Platzi
 * Las personalidades multiples de Freddy
 * Conocer las buenas practicas
 * Creado por el increible Edwin
+* Incluye ejemplos en Windows
 
 Y lo que estoy haciendo ahora que es saber editar el README.md a traves de Markdown.
